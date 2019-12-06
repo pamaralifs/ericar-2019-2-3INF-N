@@ -1,0 +1,20 @@
+-----------------------------------
+GRANDES TALENTOS - ALUNOS INSCRITOS
+-----------------------------------
+Nome: Érika
+E-mail: erika@erika.com
+Instrumento: Flauta
+
+
+Nome: Carlos
+E-mail: carlos@carlos.com
+Instrumento: Oboé Moderno
+
+Nome: Dino da Silva Sauros
+E-mail: dino@dino.com
+Instrumento: Fagote
+
+Nome: Frahm da Silva Sauros
+E-mail: frahm@silvasauros.com
+Instrumento: Piano
+

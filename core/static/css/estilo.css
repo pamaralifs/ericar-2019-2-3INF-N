@@ -1,0 +1,4 @@
+/*Para não mostra o asterisco de campos obrigatórios nos forms crispy do django*/
+.asteriskField {
+    display: none;
+}
